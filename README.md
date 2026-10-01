@@ -1,2 +1,4 @@
-# proyecto2
-proyecto2 de desarrollo de aplicaciones
+# Proyecto 2
+El repositorio del page de GitHub para realizar el proyecto 2 
+# Estudiantes
+Arihuz Icaza | Sebastián Toral
